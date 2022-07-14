@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+	<!-- Maintainer info -->
+     <string name="config_maintainer_name" translatable="false">Matheus Vieira</string>
+     <string name="config_maintainer_link"  translatable="false">https://github.com/matt0301</string>
+
+</resources>

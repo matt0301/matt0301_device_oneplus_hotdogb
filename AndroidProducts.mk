@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/yaap_hotdogb.mk
+    $(LOCAL_DIR)/hotdogb.mk
+
+COMMON_LUNCH_CHOICES := \
+    hotdogb-user \
+    hotdogb-userdebug \
+    hotdogb-eng
