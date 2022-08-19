@@ -16,7 +16,8 @@ PRODUCT_PACKAGES += \
     OnePlus7TFrameworks \
     OnePlus7TSettings \
     OnePlus7TSettingsProvider \
-    OnePlus7TSystemUI
+    OnePlus7TSystemUI \
+		AlertSliderOverlay
 
 # Make it official
 OFFICIAL_BUILD := true
