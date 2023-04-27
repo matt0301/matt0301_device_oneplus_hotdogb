@@ -5,9 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_hotdogb.mk
-
-COMMON_LUNCH_CHOICES := \
-				    derp_hotdogb-user \
-				    derp_hotdogb-userdebug \
-				    derp_hotdogb-eng
+    $(LOCAL_DIR)/hotdogb.mk
